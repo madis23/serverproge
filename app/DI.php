@@ -1,9 +1,10 @@
 <?php
 namespace App;
+use AltoRouter;
 class DI
 {
     /**
-     * @var Router
+     * @var AltoRouter
      */
     public static $router;
     /**

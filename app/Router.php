@@ -1,6 +1,5 @@
 <?php 
 namespace App;
-
 class Router {
     private $method;
     private $uri;
